@@ -200,7 +200,7 @@ src/
 
 3. **Build errors**:
    ```bash
-   # Check for TypeScript errors
+   # Check for the TypeScript errors
    npm run lint
    # Fix auto-fixable issues
    npm run lint -- --fix
