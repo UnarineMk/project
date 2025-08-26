@@ -34,7 +34,7 @@ const About: React.FC = () => {
           {/* Text Content */}
           <div>
             <p className="text-lg text-gray-600 dark:text-gray-300 medium:text-gray-700 mb-6 leading-relaxed">
-              I'm a proactive Integration Engineer with over 3 years of experience in designing and 
+              I'm a proactive Integration Engineer with over 4 years of experience in designing and 
               implementing seamless integration solutions. My expertise lies in connecting diverse 
               systems, enhancing data flow, and delivering high-quality, performant integrations 
               that drive business growth.
